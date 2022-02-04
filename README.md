@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yamamurankofu
-- 👀 I’m interested in ...Handball
-- 🌱 I’m currently learning ...Python
+- 👀 I’m interested in ...webapp,Handball,python,php
+- 🌱 I’m currently learning ...Python,flask,django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
